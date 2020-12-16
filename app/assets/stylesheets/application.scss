@@ -13,10 +13,9 @@
  *= require_tree .
  *= require_self
  */
-
 @import "bootstrap";
-@import 'font-awesome-sprockets';
-@import 'font-awesome';
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 .fa, .fas {
   font-family: 'Font Awesome 5 Free';
